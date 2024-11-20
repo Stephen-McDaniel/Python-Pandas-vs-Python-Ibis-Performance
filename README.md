@@ -3,6 +3,7 @@
 This repository contains a series of Jupyter Notebooks for processing and analyzing the **McAuley-Lab/Amazon-Reviews-2023 dataset**. These scripts are designed to handle large-scale datasets, split data for efficient processing, and generate summarized insights. The workflow leverages **Pandas**, **DuckDB**, and **Feather** file formats for speed and flexibility.
 
 For the complete results in a beautiful PDF, [just visit Peak Python for the 9 page report.](https://www.peakpython.com/blog/pandas-ibis-performance)
+[<img src="Grab_the_report_at_Peak_Python_com_blog_pandas-ibis-performance.png" width="800" />](https://www.peakpython.com/blog/pandas-ibis-performance)
 
 We will use similar data for our new course, [**Rethinking Python Pandas: 5x-100x Speed & Maximum Flexibility with Python Ibis**](https://www.peakpython.com/rethinking-python-pandas-10x-speed-flexibility-with-python-ibis).
 
